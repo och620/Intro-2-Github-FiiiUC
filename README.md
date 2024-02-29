@@ -17,6 +17,8 @@ em seguida alguns numeros UC:
 * segundo dados obtidos em uc.pt a 2024-02-29
 ```
 
+![grafico dos numeros da UC](/images/grafico1.jpg)
+
 ## Acerca
 Este repositório foi feito por OCH no [workshop de Introdução do Github](https://iimpaqct.uc.pt/github-fiiiuc).
 
