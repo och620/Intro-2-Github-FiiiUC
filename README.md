@@ -1,2 +1,2 @@
 # Intro-2-Github-FiiiUC
-o meu primeiro repositorio
+o primeiro repositorio de OCH.
